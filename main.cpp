@@ -81,6 +81,7 @@ bool BusReservationSystem::authenticateUser(const string& username, const string
 
 void BusReservationSystem::addBusDetails() {
     // Implementation to add bus details
+    here admin have rights to add bus details
 }
 
 void BusReservationSystem::updateBusDetails() {
